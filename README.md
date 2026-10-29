@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Unvalidated research fork — not ready for vehicle installation.**
+> This copy has not been validated on comma four. Start with [RESEARCH_STATUS.md](RESEARCH_STATUS.md).
+> The original upstream Jeep revision is preserved on `jeep`; this `jeep-research` branch adds documentation only.
+
 <div align="center" style="text-align: center;">
 
 <h1>openpilot</h1>
